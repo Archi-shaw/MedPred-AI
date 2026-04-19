@@ -56,6 +56,3 @@ streamlit run main.py
 
 This project is for educational purposes only and not for medical use.
 
----
-
-# MedPred-AI
